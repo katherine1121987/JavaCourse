@@ -6,6 +6,8 @@ public class Prueba {
 		
 		System.out.println("Estamos en clase");
 
+		
+		HQEFOIUHWELJKFN	QÑERPIUWAWGFIWUEHTGOIUWOIUTYOIQ4UTQ
 	}
 
 }
